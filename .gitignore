@@ -1,0 +1,10 @@
+# Java compiled files
+*.class
+
+# Program data files
+*.dat
+*.data
+
+# IDE files
+.idea/
+out/
